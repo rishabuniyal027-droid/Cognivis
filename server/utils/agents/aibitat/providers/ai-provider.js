@@ -177,8 +177,8 @@ class Provider {
           configuration: {
             baseURL: "https://openrouter.ai/api/v1",
             defaultHeaders: {
-              "HTTP-Referer": "https://anythingllm.com",
-              "X-Title": "AnythingLLM",
+              "HTTP-Referer": "https://Cognivis.com",
+              "X-Title": "Cognivis",
             },
           },
           apiKey: process.env.OPENROUTER_API_KEY ?? null,
@@ -321,7 +321,7 @@ class Provider {
           ...config,
         });
       // OSS Model Runners
-      // case "anythingllm_ollama":
+      // case "Cognivis_ollama":
       //   return new ChatOllama({
       //     baseUrl: process.env.PLACEHOLDER,
       //     ...config,

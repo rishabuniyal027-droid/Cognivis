@@ -992,7 +992,7 @@ function supportedLLM(input = "") {
     "sambanova",
     "lemonade",
     "minimax",
-    "anythingllm-router",
+    "Cognivis-router",
   ].includes(input);
   return validSelection ? null : `${input} is not a valid LLM provider.`;
 }
@@ -1088,7 +1088,7 @@ async function validDockerizedUrl(input = "") {
 
     const isPortAvailableFromDocker = await isPortInUse(port, hostname);
     if (isPortAvailableFromDocker)
-      return "Port is not running a reachable service on loopback address from inside the AnythingLLM container. Please use host.docker.internal (for linux use 172.17.0.1), a real machine ip, or domain to connect to your service.";
+      return "Port is not running a reachable service on loopback address from inside the Cognivis container. Please use host.docker.internal (for linux use 172.17.0.1), a real machine ip, or domain to connect to your service.";
   } catch (error) {
     console.error(error.message);
     return "An error occurred while validating the URL";
@@ -1345,7 +1345,7 @@ function dumpENV() {
     "GENERIC_OPEN_AI_CUSTOM_HEADERS",
 
     // Specify Chromium args for collector
-    "ANYTHINGLLM_CHROMIUM_ARGS",
+    "Cognivis_CHROMIUM_ARGS",
 
     // Allow setting a custom response timeout for Ollama
     "OLLAMA_RESPONSE_TIMEOUT",

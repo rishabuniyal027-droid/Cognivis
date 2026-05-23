@@ -311,8 +311,8 @@ export default function AdminAgents() {
           ...server,
           config: {
             ...server.config,
-            anythingllm: {
-              ...server.config?.anythingllm,
+            Cognivis: {
+              ...server.config?.Cognivis,
               suppressedTools,
             },
           },
@@ -326,8 +326,8 @@ export default function AdminAgents() {
         ...prev,
         config: {
           ...prev.config,
-          anythingllm: {
-            ...prev.config?.anythingllm,
+          Cognivis: {
+            ...prev.config?.Cognivis,
             suppressedTools,
           },
         },

@@ -133,7 +133,7 @@ export default function useAgentSkillsState(defaultSkills) {
         return prev.map((server) => {
           if (server.name !== serverName) return server;
           const currentSuppressed =
-            server.config?.anythingllm?.suppressedTools || [];
+            server.config?.Cognivis?.suppressedTools || [];
           const newSuppressed = newEnabled
             ? currentSuppressed.filter((t) => t !== toolName)
             : [...currentSuppressed, toolName];
@@ -141,8 +141,8 @@ export default function useAgentSkillsState(defaultSkills) {
             ...server,
             config: {
               ...server.config,
-              anythingllm: {
-                ...server.config?.anythingllm,
+              Cognivis: {
+                ...server.config?.Cognivis,
                 suppressedTools: newSuppressed,
               },
             },

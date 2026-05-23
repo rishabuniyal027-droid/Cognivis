@@ -7,11 +7,11 @@ import SystemPromptVariable from "./systemPromptVariable";
 
 const System = {
   cacheKeys: {
-    footerIcons: "anythingllm_footer_links",
-    supportEmail: "anythingllm_support_email",
-    customAppName: "anythingllm_custom_app_name",
-    canViewChatHistory: "anythingllm_can_view_chat_history",
-    deploymentVersion: "anythingllm_deployment_version",
+    footerIcons: "Cognivis_footer_links",
+    supportEmail: "Cognivis_support_email",
+    customAppName: "Cognivis_custom_app_name",
+    canViewChatHistory: "Cognivis_can_view_chat_history",
+    deploymentVersion: "Cognivis_deployment_version",
   },
   ping: async function () {
     return await fetch(`${API_BASE}/ping`)

@@ -1,7 +1,7 @@
 <a name="readme-top"></a>
 
 <p align="center">
-  <a href="https://anythingllm.com"><img src="https://github.com/Mintplex-Labs/anything-llm/blob/master/images/wordmark.png?raw=true" alt="AnythingLLM logo"></a>
+  <a href="https://Cognivis.com"><img src="https://github.com/Mintplex-Labs/anything-llm/blob/master/images/wordmark.png?raw=true" alt="Cognivis logo"></a>
 </p>
 
 <div align='center'>
@@ -9,7 +9,7 @@
 </div>
 
 <p align="center">
-    <b>AnythingLLM:</b> The all-in-one AI app you were looking for.<br />
+    <b>Cognivis:</b> The all-in-one AI app you were looking for.<br />
     Chat with your docs, use AI Agents, hyper-configurable, multi-user, & no frustrating setup required.
 </p>
 
@@ -20,10 +20,10 @@
   <a href="https://github.com/Mintplex-Labs/anything-llm/blob/master/LICENSE" target="_blank">
       <img src="https://img.shields.io/static/v1?label=license&message=MIT&color=white" alt="License">
   </a> |
-  <a href="https://docs.anythingllm.com" target="_blank">
+  <a href="https://docs.Cognivis.com" target="_blank">
     Docs
   </a> |
-   <a href="https://my.mintplexlabs.com/aio-checkout?product=anythingllm" target="_blank">
+   <a href="https://my.mintplexlabs.com/aio-checkout?product=Cognivis" target="_blank">
     Hosted Instance
   </a>
 </p>
@@ -33,12 +33,12 @@
 </p>
 
 <p align="center">
-👉 AnythingLLM for desktop (Mac, Windows, & Linux)! <a href="https://anythingllm.com/download" target="_blank"> Download Now</a>
+👉 Cognivis for desktop (Mac, Windows, & Linux)! <a href="https://Cognivis.com/download" target="_blank"> Download Now</a>
 </p>
 
 Chat with your docs. Automate complex workflows with AI Agents. Hyper-configurable, multi-user ready, battle-tested—and runs locally by default with zero setup friction.
 
-![Chatting](https://github.com/Mintplex-Labs/anything-llm/releases/download/v1.11.2/AnythingLLM720p.gif)
+![Chatting](https://github.com/Mintplex-Labs/anything-llm/releases/download/v1.11.2/Cognivis720p.gif)
 
 <details>
 <summary><kbd>Watch the demo!</kbd></summary>
@@ -49,23 +49,23 @@ Chat with your docs. Automate complex workflows with AI Agents. Hyper-configurab
 
 ### Product Overview
 
-AnythingLLM is the all-in-one AI application that lets you build a private, fully-featured ChatGPT—without compromises. Connect your favorite local or cloud LLM, ingest your documents, and start chatting in minutes. Out of the box you get built-in agents, multi-user support, vector databases, and document pipelines — no extra configuration required.
+Cognivis is the all-in-one AI application that lets you build a private, fully-featured ChatGPT—without compromises. Connect your favorite local or cloud LLM, ingest your documents, and start chatting in minutes. Out of the box you get built-in agents, multi-user support, vector databases, and document pipelines — no extra configuration required.
 
-AnythingLLM supports multiple users as well where you can control the access and experience per user without compromising the security or privacy of the instance or your intellectual property.
+Cognivis supports multiple users as well where you can control the access and experience per user without compromising the security or privacy of the instance or your intellectual property.
 
-## Cool Features of AnythingLLM
+## Cool Features of Cognivis
 
-- [Dynamic Model Routing](https://docs.anythingllm.com/model-router/overview) - Automatically route chats to the best provider & model for the conversation based on rules you define.
-- [Automatic & User Managed Memories](https://docs.anythingllm.com/features/memories) - Have your LLM remember important information about you or your workspace.
-- [Scheduled Tasks](https://docs.anythingllm.com/scheduled-jobs/overview) - Run recurring tasks or prompts on a cron schedule with full agent capabilities.
-- [Intelligent Skill Selection](https://docs.anythingllm.com/agent/intelligent-tool-selection) Enable **unlimited** tools for your models while reducing token usage by up to 80% per query
-- [No-code AI Agent builder](https://docs.anythingllm.com/agent-flows/overview)
-- [MCP-compatibility](https://docs.anythingllm.com/mcp-compatibility/overview)
-- [Multi-modal support (both closed and open-source LLMs!)](https://docs.anythingllm.com/features/multimodal)
-- [Custom AI Agents](https://docs.anythingllm.com/agent/custom/introduction)
+- [Dynamic Model Routing](https://docs.Cognivis.com/model-router/overview) - Automatically route chats to the best provider & model for the conversation based on rules you define.
+- [Automatic & User Managed Memories](https://docs.Cognivis.com/features/memories) - Have your LLM remember important information about you or your workspace.
+- [Scheduled Tasks](https://docs.Cognivis.com/scheduled-jobs/overview) - Run recurring tasks or prompts on a cron schedule with full agent capabilities.
+- [Intelligent Skill Selection](https://docs.Cognivis.com/agent/intelligent-tool-selection) Enable **unlimited** tools for your models while reducing token usage by up to 80% per query
+- [No-code AI Agent builder](https://docs.Cognivis.com/agent-flows/overview)
+- [MCP-compatibility](https://docs.Cognivis.com/mcp-compatibility/overview)
+- [Multi-modal support (both closed and open-source LLMs!)](https://docs.Cognivis.com/features/multimodal)
+- [Custom AI Agents](https://docs.Cognivis.com/agent/custom/introduction)
 - 👤 Multi-user instance support and permissioning _Docker version only_
 - 🦾 Agents inside your workspace (browse the web, etc)
-- 💬 [Custom Embeddable Chat widget for your website](https://github.com/Mintplex-Labs/anythingllm-embed/blob/main/README.md) _Docker version only_
+- 💬 [Custom Embeddable Chat widget for your website](https://github.com/Mintplex-Labs/Cognivis-embed/blob/main/README.md) _Docker version only_
 - 📖 Multiple document type support (PDF, TXT, DOCX, etc)
 - Intuitive chat UI with drag-and-drop uploads and source citations.
 - Production-ready for any cloud deployment.
@@ -118,7 +118,7 @@ AnythingLLM supports multiple users as well where you can control the access and
 
 **Embedder models:**
 
-- [AnythingLLM Native Embedder](/server/storage/models/README.md) (default)
+- [Cognivis Native Embedder](/server/storage/models/README.md) (default)
 - [OpenAI](https://openai.com)
 - [Azure OpenAI](https://azure.microsoft.com/en-us/products/ai-services/openai-service)
 - [LocalAI (all)](https://localai.io/)
@@ -128,7 +128,7 @@ AnythingLLM supports multiple users as well where you can control the access and
 
 **Audio Transcription models:**
 
-- [AnythingLLM Built-in](https://github.com/Mintplex-Labs/anything-llm/tree/master/server/storage/models#audiovideo-transcription) (default)
+- [Cognivis Built-in](https://github.com/Mintplex-Labs/anything-llm/tree/master/server/storage/models#audiovideo-transcription) (default)
 - [OpenAI](https://openai.com/)
 
 **TTS (text-to-speech) support:**
@@ -163,12 +163,12 @@ This monorepo consists of six main sections:
 - `server`: A NodeJS express server to handle all the interactions and do all the vectorDB management and LLM interactions.
 - `collector`: NodeJS express server that processes and parses documents from the UI.
 - `docker`: Docker instructions and build process + information for building from source.
-- `embed`: Submodule for generation & creation of the [web embed widget](https://github.com/Mintplex-Labs/anythingllm-embed).
-- `browser-extension`: Submodule for the [chrome browser extension](https://github.com/Mintplex-Labs/anythingllm-extension).
+- `embed`: Submodule for generation & creation of the [web embed widget](https://github.com/Mintplex-Labs/Cognivis-embed).
+- `browser-extension`: Submodule for the [chrome browser extension](https://github.com/Mintplex-Labs/Cognivis-extension).
 
 ## 🛳 Self-Hosting
 
-Mintplex Labs & the community maintain a number of deployment methods, scripts, and templates that you can use to run AnythingLLM locally. Refer to the table below to read how to deploy on your preferred environment or to automatically deploy.
+Mintplex Labs & the community maintain a number of deployment methods, scripts, and templates that you can use to run Cognivis locally. Refer to the table below to read how to deploy on your preferred environment or to automatically deploy.
 | Docker | AWS | GCP | Digital Ocean | Render.com |
 |----------------------------------------|----|-----|---------------|------------|
 | [![Deploy on Docker][docker-btn]][docker-deploy] | [![Deploy on AWS][aws-btn]][aws-deploy] | [![Deploy on GCP][gcp-btn]][gcp-deploy] | [![Deploy on DigitalOcean][do-btn]][do-deploy] | [![Deploy on Render.com][render-btn]][render-deploy] |
@@ -177,7 +177,7 @@ Mintplex Labs & the community maintain a number of deployment methods, scripts, 
 | --------------------------------------------------- | --------------------------------------------------------- | --------------------------------------------------- | ------------------------------------------------------------ |
 | [![Deploy on Railway][railway-btn]][railway-deploy] | [![Deploy on RepoCloud][repocloud-btn]][repocloud-deploy] | [![Deploy on Elestio][elestio-btn]][elestio-deploy] | [![Deploy on Northflank][northflank-btn]][northflank-deploy] |
 
-[or set up a production AnythingLLM instance without Docker →](./BARE_METAL.md)
+[or set up a production Cognivis instance without Docker →](./BARE_METAL.md)
 
 ## How to setup for development
 
@@ -191,14 +191,14 @@ Mintplex Labs & the community maintain a number of deployment methods, scripts, 
 
 ## Telemetry & Privacy
 
-AnythingLLM by Mintplex Labs Inc contains a telemetry feature that collects anonymous usage information.
+Cognivis by Mintplex Labs Inc contains a telemetry feature that collects anonymous usage information.
 
 <details>
-<summary><kbd>More about Telemetry & Privacy for AnythingLLM</kbd></summary>
+<summary><kbd>More about Telemetry & Privacy for Cognivis</kbd></summary>
 
 ### Why?
 
-We use this information to help us understand how AnythingLLM is used, to help us prioritize work on new features and bug fixes, and to help us improve AnythingLLM's performance and stability.
+We use this information to help us understand how Cognivis is used, to help us prioritize work on new features and bug fixes, and to help us improve Cognivis's performance and stability.
 
 ### Opting out
 
@@ -229,7 +229,7 @@ We take privacy very seriously, and we hope you understand that we want to learn
 If you disable telemetry, you would still see outbound connections to the following services:
 
 - If using an external tool, LLM, Embedding models, or Vector databases, you will still see outbound connections to the respective service provider.
-- `cdn.anythingllm.com` for pulling models from our mirror CDN. This is not tracked by telemetry and is actually useful for those in VPN restricted regions.
+- `cdn.Cognivis.com` for pulling models from our mirror CDN. This is not tracked by telemetry and is actually useful for those in VPN restricted regions.
 - `github/githubusercontent.com` There are some various flat files that are downloaded from these domains for context window caching.
 
 Basically, if telemetry is disabled we don't collect anything. However, depending on your setup you may still see outbound connections and would be subject to the terms of service of the respective service provider.
@@ -238,7 +238,7 @@ Basically, if telemetry is disabled we don't collect anything. However, dependin
 
 ## 👋 Contributing
 
-- [Contributing to AnythingLLM](./CONTRIBUTING.md) - How to contribute to AnythingLLM.
+- [Contributing to Cognivis](./CONTRIBUTING.md) - How to contribute to Cognivis.
 
 ## 💖 Sponsors
 
@@ -256,7 +256,7 @@ Basically, if telemetry is disabled we don't collect anything. However, dependin
 
 ## 🌟 Contributors
 
-[![anythingllm contributors](https://contrib.rocks/image?repo=mintplex-labs/anything-llm)](https://github.com/mintplex-labs/anything-llm/graphs/contributors)
+[![Cognivis contributors](https://contrib.rocks/image?repo=mintplex-labs/anything-llm)](https://github.com/mintplex-labs/anything-llm/graphs/contributors)
 
 [![Star History Chart](https://api.star-history.com/svg?repos=mintplex-labs/anything-llm&type=Timeline)](https://star-history.com/#mintplex-labs/anything-llm&Date)
 
@@ -299,6 +299,6 @@ This project is [MIT](./LICENSE) licensed.
 [repocloud-btn]: https://d16t0pc4846x52.cloudfront.net/deploylobe.svg
 [repocloud-deploy]: https://repocloud.io/details/?app_id=276
 [elestio-btn]: https://elest.io/images/logos/deploy-to-elestio-btn.png
-[elestio-deploy]: https://elest.io/open-source/anythingllm
+[elestio-deploy]: https://elest.io/open-source/Cognivis
 [northflank-btn]: https://assets.northflank.com/deploy_to_northflank_smm_36700fb050.svg
-[northflank-deploy]: https://northflank.com/stacks/deploy-anythingllm
+[northflank-deploy]: https://northflank.com/stacks/deploy-Cognivis

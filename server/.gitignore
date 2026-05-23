@@ -11,12 +11,12 @@ storage/tmp/*
 storage/vector-cache/*.json
 storage/exports
 storage/imports
-storage/anythingllm-fs/*
+storage/Cognivis-fs/*
 storage/generated-files/*
 storage/plugins/agent-skills/*
 storage/plugins/agent-flows/*
 storage/plugins/office-extensions/*
-storage/plugins/anythingllm_mcp_servers.json
+storage/plugins/Cognivis_mcp_servers.json
 !storage/documents/DOCUMENTS.md
 storage/push-notifications/*
 storage/direct-uploads
